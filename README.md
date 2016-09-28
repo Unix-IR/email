@@ -24,8 +24,8 @@ sudo pip install temp-mail
 ```
 * Then we clone Repo and run bot.py
 ```
-git clone https://github.com/iTeam-co/Email-Bot.git
-cd Email-Bot
+git clone https://github.com/salehvw0011/email.git
+cd email
 ```
 *Edit bot.py file and add your Bot Token to line 5 then:*
 
