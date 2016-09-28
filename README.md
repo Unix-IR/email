@@ -7,7 +7,7 @@ Dev Info:
 
 
 
-Telegram: [Parsa](http://telegram.me/sudoAm)
+Telegram: [admin](http://telegram.me/sudoAm)
 
 Powered By: [h4ck_iran](http://telegram.me/h4ck_iran)
 
