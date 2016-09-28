@@ -5,11 +5,11 @@ You can develop the bot and add keyboard & etc.
 
 Dev Info:
 
-Email: Prsahrn@gmail.com
 
-Telegram: [Parsa](http://telegram.me/prsahrn)
 
-Powered By: [iTeam](http://telegram.me/iteam_en)
+Telegram: [Parsa](http://telegram.me/sudoAm)
+
+Powered By: [h4ck_iran](http://telegram.me/h4ck_iran)
 
 ## Installation
 **Ubuntu:**
