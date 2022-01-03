@@ -7,9 +7,7 @@ Dev Info:
 
 
 
-Telegram: [admin](http://telegram.me/sudoAm)
 
-Powered By: [h4ck_iran](http://telegram.me/h4ck_iran)
 
 ## Installation
 **Ubuntu:**
@@ -24,7 +22,7 @@ sudo pip install temp-mail
 ```
 * Then we clone Repo and run bot.py
 ```
-git clone https://github.com/salehvw0011/email.git
+git clone https://github.com/Unix-IR/email.git
 cd email
 ```
 *Edit bot.py file and add your Bot Token to line 5 then:*
